@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+#box1{
+    background-color: hsl(0, 98%, 59%);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    /*margin: 50px; PUTS MARGIN ALL SIDES 50 PX*/
+}
+#box2{
+    background-color: hsl(182, 89%, 56%);
+    margin: auto; /*ADJUSTS IN THE MIDDLE*/
+}

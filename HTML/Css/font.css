@@ -1,0 +1,17 @@
+@font-face{
+    src: url(/Fonts/Roboto.ttf)
+}
+@font-face{
+    src: url(/Fonts/OpenSans.ttf)
+}
+
+h1{
+    font-family: "Roboto", "verdana";
+}
+p{
+    font-family: "OpenSans", "lucida console","courier new";
+    font-size: 1.1em;
+    font-weight: bold;
+    font-style: regular;
+
+}
